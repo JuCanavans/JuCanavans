@@ -1,7 +1,7 @@
 ### Oi!!! Eu sou Julio Silva 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor de Software
-- 🌱 Estou praticando e estudando a Data Science
+- 🌱 Estou praticando e estudando na area do Data Science
 - 🤔 Dicas de como seguir na carreira de Data Science
 - 😄 Pronouns: ele/ela
 
