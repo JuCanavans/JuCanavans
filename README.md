@@ -1,4 +1,4 @@
-### Oi!!! eu sou Julio Silva 👋
+### Oi!!! Eu sou Julio Silva 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor de Software
 - 🌱 Estou praticando e estudando a Data Science
