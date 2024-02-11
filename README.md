@@ -14,3 +14,9 @@
   <img align="center" alt="Sql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
 </div>
+
+### Contact
+<div>
+<a href="https://www.instagram.com/juliosouza_09/?next=%2F" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/julio-silva-progaminglive/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
