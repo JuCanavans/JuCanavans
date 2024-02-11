@@ -12,7 +12,8 @@
   <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
 </div>
 
-<h1><img url="![icons8-notebook-30](https://github.com/JuCanavans/JuCanavans/assets/103950621/3d13b932-1ee4-4559-907d-317810a6c319)">About me</h1> 
+
+<h1><img src="./style/icon-laptop.png"> About me</h1> 
 
 - 🔭 Hoje trabalho como Desenvolvedor de Software
 - 🌱 Estou praticando e estudando na area do Data Science
