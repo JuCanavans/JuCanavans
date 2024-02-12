@@ -13,7 +13,7 @@
 </div>
 
 
-<h1><img src="./style/icon-laptop.png"> About me</h1> 
+## <h1><img src="./style/icon-laptop.png"> About me</h1> 
 
 - 🔭 Hoje trabalho como Desenvolvedor de Software
 - 🌱 Estou praticando e estudando na area do Data Science
