@@ -3,16 +3,16 @@
 ## 🛠 Technology
 
 <div align="center" style="display: inline_block"><br>
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Sass" height="30" width="40" src="https://github.com/JuCanavans/JuCanavans/assets/103950621/1595ac27-1752-4c83-b67b-94450007bda3">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Sql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
-  <img alt="Postgresql" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
+  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Sass" height="40" width="40" src="https://github.com/JuCanavans/JuCanavans/assets/103950621/1595ac27-1752-4c83-b67b-94450007bda3">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Sql" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
+  <img alt="Postgresql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
+  <img alt="Tailwind" height="40" width="40" src="https://img.icons8.com/color/48/tailwind_css.png">
 </div>
-
 
 ## <h1><img src="./style/icon-laptop.png"> About me</h1> 
 
